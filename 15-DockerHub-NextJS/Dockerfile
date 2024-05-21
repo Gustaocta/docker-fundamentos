@@ -1,0 +1,1 @@
+FROM gustavootacilio/nextjs:latest

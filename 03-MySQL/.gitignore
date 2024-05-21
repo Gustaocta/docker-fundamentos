@@ -1,0 +1,5 @@
+data/
+
+# Ignorar diretório mysql
+
+/13-Wordpress/data/mysql/mysql.sock
